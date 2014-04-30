@@ -18,6 +18,7 @@ public class NilaiMain {
 	public void initMhs() {
 		listMhs.add(new Mahasiswa("113040100", "Asep Budi Cahyadi", "Pekanbaru"));
 		listMhs.add(new Mahasiswa("113040200", "Dani Eka Fauzi", "Makasar"));
+		listMhs.add(new Mahasiswa("113040110", "Fajar Galih", "Papua"));
 	}
 
 	public void initMatkul() {
