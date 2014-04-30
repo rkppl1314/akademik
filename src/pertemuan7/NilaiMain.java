@@ -24,6 +24,7 @@ public class NilaiMain {
 	public void initMatkul() {
 		listMk.add(new Matakuliah("IF123", "RKPPL", 3));
 		listMk.add(new Matakuliah("IF234", "PSBK", 3));
+		listMk.add(new Matakuliah("IF100", "SBD1", 3));
 	}
 
 	public void initNilai() {
